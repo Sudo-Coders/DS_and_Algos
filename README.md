@@ -1,5 +1,5 @@
 # Data Structure and Algorithms
 
-### [Dynamic Programming](/Dynamic Programming/) : 
-	* [Assignment Problem](/Dynamic Programming/Assignment Problem.cpp)
-	* [Sum of Digits](/Dynamic Programming/Sum of digits.cpp)
+### [Dynamic Programming](/Dynamic%20Programming/) : 
+	* [Assignment Problem](/Dynamic%20Programming/)
+	* [Sum of Digits](/Dynamic%20Programming/)
