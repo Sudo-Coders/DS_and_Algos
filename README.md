@@ -5,5 +5,5 @@
  * [Sum of Digits](/Dynamic%20Programming/Sum%20of%20digits.cpp)
 
 
-### [Graph Problems](/Graph Problem/) : 
- * [The Two Routes](/Graph Problem/graph_bfs.cpp)
+### [Graph Problems](/Graph%20Problem/) : 
+ * [The Two Routes](/Graph%20Problem/graph_bfs.cpp)
